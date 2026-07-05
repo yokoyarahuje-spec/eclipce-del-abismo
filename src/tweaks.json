@@ -1,0 +1,82 @@
+{
+  "playerSpeed": {
+    "type": "number",
+    "value": 255,
+    "min": 180,
+    "max": 340,
+    "step": 5,
+    "name": "Velocidad del héroe",
+    "group": "balance",
+    "index": 1
+  },
+  "swordDamage": {
+    "type": "number",
+    "value": 2,
+    "min": 1,
+    "max": 5,
+    "step": 1,
+    "name": "Daño de espada",
+    "group": "balance",
+    "index": 2
+  },
+  "magicDamage": {
+    "type": "number",
+    "value": 1,
+    "min": 1,
+    "max": 4,
+    "step": 1,
+    "name": "Daño de magia",
+    "group": "balance",
+    "index": 3
+  },
+  "enemySpeedMultiplier": {
+    "type": "number",
+    "value": 1,
+    "min": 0.6,
+    "max": 1.6,
+    "step": 0.05,
+    "name": "Velocidad enemiga",
+    "group": "balance",
+    "index": 4
+  },
+  "dashSpeed": {
+    "type": "number",
+    "value": 560,
+    "min": 420,
+    "max": 760,
+    "step": 10,
+    "name": "Velocidad del dash",
+    "group": "balance",
+    "index": 5
+  },
+  "barrelSpawnChance": {
+    "type": "number",
+    "value": 0.72,
+    "min": 0.2,
+    "max": 1,
+    "step": 0.02,
+    "name": "Probabilidad de barriles",
+    "group": "balance",
+    "index": 6
+  },
+  "enemyDropChance": {
+    "type": "number",
+    "value": 0.38,
+    "min": 0,
+    "max": 0.9,
+    "step": 0.02,
+    "name": "Probabilidad de botín enemigo",
+    "group": "balance",
+    "index": 7
+  },
+  "effectsIntensity": {
+    "type": "number",
+    "value": 1,
+    "min": 0.4,
+    "max": 1.8,
+    "step": 0.1,
+    "name": "Intensidad de efectos",
+    "group": "visual",
+    "index": 8
+  }
+}

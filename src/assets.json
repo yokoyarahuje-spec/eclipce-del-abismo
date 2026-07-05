@@ -1,0 +1,12 @@
+{
+  "PICKUP_ATLAS": "/generated-assets/pickup_atlas-transparent.webp",
+  "CAVE_BACKDROP": "/generated-assets/cave_backdrop.webp",
+  "ENEMY_SHEET": "/generated-assets/enemy_sheet-transparent.webp",
+  "EFFECT_SHEET": "/generated-assets/effect_sheet-transparent.webp",
+  "MINOTAUR_SHEET": "/generated-assets/minotaur_sheet-transparent.webp",
+  "CAVE_ATLAS": "/generated-assets/cave_atlas-transparent.webp",
+  "PLAYER_SHEET": "/generated-assets/player_sheet-transparent.webp",
+  "BARREL_ATLAS": "/generated-assets/barrel_atlas-transparent.webp",
+  "GUIDE_NPC_ATLAS": "/generated-assets/guide_npc_atlas-transparent.webp",
+  "GUIDE_FRONT_JUMP_ATLAS": "/generated-assets/guide_front_jump_atlas-transparent.webp"
+}
